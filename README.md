@@ -84,11 +84,12 @@ G Fluffy 60
 
 ## 🚀 Compilation & Run Instructions
 
-Use any modern Linux terminal (e.g., `opsys.inf.elte.hu`):
+🐧 This project runs on Linux systems — tested on Debian-based environments like Ubuntu.
+✅ Works perfectly on opsys.inf.elte.hu or any similar Debian-compatible setup.
 
-```bash
-gcc -o bunnygame hw2.c
-./bunnygame
+```
+gcc bunnyGame.c -o  bunnyGame.out
+./bunnyGame.out
 ```
 
 ---
